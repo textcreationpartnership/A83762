@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An order of the Commons assembled in Parliament; concerning the returning, in writing, to the House of Commons, the names of such ministers, and other persons of parishes within the bills of mortallity, as shall not take the Solemn League and Covenant before Wednesday next. Together with an order of the Lords and Commons, for the letting, setting, and renting forth of the houses of such persons as absent themselves from payment of their assessments, subsidies, and other payments by ordinances of Parliament. Ordered by the Commons in Parliament, that these orders be printed and published: H: Elsynge, CLer. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83762</idno><idno type="EEBO-CITATION">99860258</idno>
+  <idno type="VID">112375</idno>
+  <idno type="EEBO-PROQUEST">2248511158</idno>
+  
+            <idno type="STC">Wing E2645</idno>
+            <idno type="STC">Thomason E77_24</idno>
+            <idno type="STC">ESTC R17747</idno>
+            <idno type="PROQUEST">99860258</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860258e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83762)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112375)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 13:E77[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An order of the Commons assembled in Parliament; concerning the returning, in writing, to the House of Commons, the names of such ministers, and other persons of parishes within the bills of mortallity, as shall not take the Solemn League and Covenant before Wednesday next. Together with an order of the Lords and Commons, for the letting, setting, and renting forth of the houses of such persons as absent themselves from payment of their assessments, subsidies, and other payments by ordinances of Parliament. Ordered by the Commons in Parliament, that these orders be printed and published: H: Elsynge, CLer. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands, and are to be sold at his shop in the Middle-Temple.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Decemb. 2, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Solemn League and Covenant (1643).</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112375:1"/>
+            <p> AN ORDER OF The <hi>COMMONS</hi> assembled in PARLIAMENT; Concerning the returning, in writing, to the House of Commons, the Names of such Mi<g ref="char:EOLhyphen"/>nisters, and other persons of Parishes within the Bills of Mortallity, as shall not take <hi>The solemn League and Covenant</hi> before Wednesday next.</p>
+            <p>Together with an Order of the Lords and Commons, for the letting, setting, and Renting forth of the Houses of such persons as absent them<g ref="char:EOLhyphen"/>selves from payment of their Assessments, Subsi<g ref="char:EOLhyphen"/>dies, and other payments by Ordinances of Parliament.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>ORdered by the Commons in Parliament, That these Or<g ref="char:EOLhyphen"/>ders be printed and published: <hi>H: Elsynge, Cler. Parl. D. Com.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husbands,</hi> and are to be sold at his shop in the Middle-Temple. Decem. 2. 1643.</p>
+            <pb facs="tcp:112375:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="order">
+            <pb n="3" facs="tcp:112375:2"/>
+            <head>Die Iovis, 30 Novem. 1643.</head>
+            <argument>
+               <p>An ORDER of the Commons as<g ref="char:EOLhyphen"/>sembled in Parliament, concerning the returning in writing to the House of Commons, the Names of such Ministers, and other persons within the Bills of Mortallity, as shall not take the <hi>Solemn League and Cove<g ref="char:EOLhyphen"/>nant</hi> before Wednesday next.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">I</seg>T is this day ordered by the Commons in Parliament assembled, That the Mini<g ref="char:EOLhyphen"/>sters within the severall Pa<g ref="char:EOLhyphen"/>rishes within the Bills of Mortallity, do on the next Lords day in the after<g ref="char:EOLhyphen"/>noon,
+<pb n="4" facs="tcp:112375:3"/> tender the <hi>Solemn League and Covenant</hi> in the severall churches and chappels within the Bills of Mortallity, to such as have not yet taken it; And that the Minister and churchwardens of every Parish be required, on VVed<g ref="char:EOLhyphen"/>nesday next, to return to the House of <hi>Commons,</hi> the Names of all such in their severall Parishes, as have not taken, or shall then refuse to take the <hi>Covenant;</hi> And the Ministers, Lectu<g ref="char:EOLhyphen"/>rers, and Curates, in the said severall Parishes that have not yet taken the <hi>Co<g ref="char:EOLhyphen"/>venant,</hi> are required then to take it; And if any of them refuse, or further delay the taking of the same, then the churchwardens of those Parishes are required to return to this House, in writing, the Names of such Ministers, Lecturers, and Curates that so refuse;
+<pb n="5" facs="tcp:112375:3"/> And the severall Ministers, in the said severall Parishes, are to give notice of this Order publiquely on the next Lords day in the forenoon; And this Order is to be printed and published, and sent to the Ministers of the severall Parishes.</p>
+            <closer>
+               <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>Die Iovis, 30 Nov. 1643.</head>
+            <p>VVHereas divers persons have been Assessed upon the Ordinances of Parliament, for the Twentieth part, and weekly Assessments, Subsidies, and other payments; many of which have Refractorily and wilfully suffered the
+<pb n="6" facs="tcp:112375:4"/> dayes for payment of the sums Asses<g ref="char:EOLhyphen"/>sed, to be elapsed, and covertly con<g ref="char:EOLhyphen"/>veighed away their goods from their Houses, and absented their persons, to avoid payment of their Assessments, or else have suffered Imprisonment, and their houses to stand empty, wher<g ref="char:EOLhyphen"/>by they might be free from bearing part of those common Taxes and char<g ref="char:EOLhyphen"/>ges, which the necessities of these trou<g ref="char:EOLhyphen"/>blous Times require: For remedy whereof, and better satisfaction of the sums Assessed on such persons, It is this Day ordered by the Lords and Commons assembled in Parliament, That such persons as shall be appoint<g ref="char:EOLhyphen"/>ed by the committee of Lords and Commons for advance of Money, and other necessaries for the Army, shall have power to let, set, or Rent forth, to
+<pb n="7" facs="tcp:112375:4"/> such persons, and for such time, Fine, and Rent, as they shall think fit, the houses of any person or persons, who are already imprisoned for their Assess<g ref="char:EOLhyphen"/>ments, or absent themselves for non<g ref="char:EOLhyphen"/>payment of their Assessments, And the Monies raised by the Rents of the said Houses, to convert and imploy to<g ref="char:EOLhyphen"/>wards satisfaction of the same Assess<g ref="char:EOLhyphen"/>ments, and payments: And that such persons as shall take the same Houses, shall discharge the head Rents due to be paid for such Houses, as also the du<g ref="char:EOLhyphen"/>ties to the Parish during their abode in the same; And the persons so taking and Leasing the said Houses, shall be saved harmles &amp; indempnified, against the persons Imprisoned, or absenting themselvs as aforesaid, by the power &amp; authority of both houses of Parliament.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
